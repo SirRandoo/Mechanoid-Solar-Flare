@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>Solar Flares Affect Mechanoids</name>
+  <author>SirRandoo</author>
+  <description>Solar flares will stun mechanoids.</description>
+
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+</ModMetaData>
