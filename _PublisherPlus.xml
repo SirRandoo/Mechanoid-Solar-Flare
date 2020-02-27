@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Excluded>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Mechanoid v Solar Flare\.git</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Mechanoid v Solar Flare\.vs</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Mechanoid v Solar Flare\Assemblies\Mechanoid v Solar Flare.pdb</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Mechanoid v Solar Flare\Source\bin</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Mechanoid v Solar Flare\Source\obj</exclude>
+  </Excluded>
+</Configuration>
