@@ -6,18 +6,13 @@ using Verse;
 
 namespace SirRandoo.MSF
 {
+    // ReSharper disable once InconsistentNaming
     public class MvSF : Mod
     {
-        internal static Harmony Harmony;
-
         public MvSF(ModContentPack content) : base(content)
         {
-            Harmony = new Harmony("com.sirrandoo.mvsf");
-            Harmony.PatchAll(Assembly.GetExecutingAssembly());
-
-            Log.Message(string.Format("{0} :: Initialized!", ID));
+            var harmony = new Harmony("com.sirrandoo.mvsf");
+            harmony.PatchAll(Assembly.GetExecutingAssembly());
         }
-
-        public static string ID => "Mechanoid v Solar Flare";
     }
 }
