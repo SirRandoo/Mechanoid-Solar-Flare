@@ -11,7 +11,7 @@ namespace SirRandoo.MSF.Patches
         // ReSharper disable once InconsistentNaming
         public static void TickRare(Pawn __instance)
         {
-            if (!__instance?.RaceProps?.IsMechanoid ?? true)
+            if (__instance?.RaceProps?.IsMechanoid != true)
             {
                 return;
             }
@@ -26,7 +26,7 @@ namespace SirRandoo.MSF.Patches
                 return;
             }
 
-            if (!__instance.MapHeld?.GameConditionManager?.ConditionIsActive(GameConditionDefOf.SolarFlare) ?? true)
+            if (__instance.Map?.GameConditionManager?.ConditionIsActive(GameConditionDefOf.SolarFlare) != true)
             {
                 return;
             }
