@@ -9,15 +9,21 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-		RimWorld 1.1|Any CPU = RimWorld 1.1|Any CPU
+		1.2 release|Any CPU = 1.2 release|Any CPU
+		1.1 release|Any CPU = 1.1 release|Any CPU
+		1.3 release|Any CPU = 1.3 release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3824D47F-B464-4497-8237-D8629B4F6EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3824D47F-B464-4497-8237-D8629B4F6EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3824D47F-B464-4497-8237-D8629B4F6EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3824D47F-B464-4497-8237-D8629B4F6EAE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3824D47F-B464-4497-8237-D8629B4F6EAE}.RimWorld 1.1|Any CPU.ActiveCfg = RimWorld 1.1|Any CPU
-		{3824D47F-B464-4497-8237-D8629B4F6EAE}.RimWorld 1.1|Any CPU.Build.0 = RimWorld 1.1|Any CPU
+		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.2 release|Any CPU.ActiveCfg = 1.2 release|Any CPU
+		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.2 release|Any CPU.Build.0 = 1.2 release|Any CPU
+		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.1 release|Any CPU.ActiveCfg = 1.1 release|Any CPU
+		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.1 release|Any CPU.Build.0 = 1.1 release|Any CPU
+		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.3 release|Any CPU.ActiveCfg = 1.3 release|Any CPU
+		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.3 release|Any CPU.Build.0 = 1.3 release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

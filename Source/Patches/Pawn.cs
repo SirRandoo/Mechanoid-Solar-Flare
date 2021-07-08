@@ -31,7 +31,7 @@ namespace SirRandoo.MSF.Patches
                 return;
             }
 
-            __instance.stances.stunner.Notify_DamageApplied(new DamageInfo(DamageDefOf.EMP, 74), true);
+            __instance.stances.stunner.Notify_DamageApplied(new DamageInfo(DamageDefOf.EMP, 74));
         }
     }
 }
