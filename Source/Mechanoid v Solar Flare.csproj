@@ -49,6 +49,9 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == '1.3 release|AnyCPU' ">
     <OutputPath>..\1.3\Assemblies</OutputPath>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == '1.4 release|AnyCPU' ">
+    <OutputPath>..\1.4\Assemblies</OutputPath>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -85,8 +88,8 @@
     </Folder>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Krafs.Rimworld.Ref" Version="1.3.3052-beta" />
-    <PackageReference Include="Lib.Harmony" Version="2.1.0" />
+    <PackageReference Include="Krafs.Rimworld.Ref" Version="1.4.3531" />
+    <PackageReference Include="Lib.Harmony" Version="2.2.2" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

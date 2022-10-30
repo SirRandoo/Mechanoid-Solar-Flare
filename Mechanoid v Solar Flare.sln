@@ -12,6 +12,7 @@ Global
 		1.2 release|Any CPU = 1.2 release|Any CPU
 		1.1 release|Any CPU = 1.1 release|Any CPU
 		1.3 release|Any CPU = 1.3 release|Any CPU
+		1.4 release|Any CPU = 1.4 release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3824D47F-B464-4497-8237-D8629B4F6EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -24,6 +25,8 @@ Global
 		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.1 release|Any CPU.Build.0 = 1.1 release|Any CPU
 		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.3 release|Any CPU.ActiveCfg = 1.3 release|Any CPU
 		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.3 release|Any CPU.Build.0 = 1.3 release|Any CPU
+		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.4 release|Any CPU.ActiveCfg = 1.4 release|Any CPU
+		{3824D47F-B464-4497-8237-D8629B4F6EAE}.1.4 release|Any CPU.Build.0 = 1.4 release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
