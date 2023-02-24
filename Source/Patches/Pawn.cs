@@ -15,6 +15,11 @@ namespace SirRandoo.MSF.Patches
             {
                 return;
             }
+            
+            if (__instance.IsColonyMech)
+            {
+                return;
+            }
 
             if (!__instance.Spawned || __instance.Dead || __instance.Downed)
             {
