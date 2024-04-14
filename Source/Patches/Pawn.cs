@@ -26,7 +26,7 @@ namespace SirRandoo.MSF.Patches
                 return;
             }
 
-            if (__instance.Map?.GameConditionManager?.ConditionIsActive(GameConditionDefOf.SolarFlare) != true)
+            if (__instance.Map?.GameConditionManager?.ConditionIsActive(DefDatabase<GameConditionDef>.GetNamed("SolarFlare")) != true)
             {
                 return;
             }
