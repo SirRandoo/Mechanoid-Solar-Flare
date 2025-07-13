@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <Manifest>
-  <identifier>Mechanoid v Solar Flare</identifier>
-  <version>1.0.1.0</version>
-  <manifestUri>https://raw.githubusercontent.com/sirrandoo/mechanoid-solar-flare/master/About/Manifest.xml</manifestUri>
+    <identifier>Mechanoid v Solar Flare</identifier>
+    <version>1.0.1.0</version>
+    <manifestUri>https://raw.githubusercontent.com/sirrandoo/mechanoid-solar-flare/master/About/Manifest.xml
+    </manifestUri>
 </Manifest>
